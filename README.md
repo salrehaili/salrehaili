@@ -61,4 +61,12 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
   <img align="left" alt="Sameer Alrehaili email" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
 </a>
 
+
+
+<!--<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=salrehaili&count_private=true&include_all_commits=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salrehaili&layout=compact" />
+</div>-->
+
 <br/><br/>
