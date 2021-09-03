@@ -53,4 +53,8 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
   <img align="left" alt="Sameer Alrehaili GitLab" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
 </a>
 
+<a href="mailto:salrehaili@gmail.com">
+  <img align="middle" alt="Sameer Alrehaili email" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
+</a>
+
 <br/><br/>
