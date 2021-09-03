@@ -42,7 +42,7 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 </a>
 
 <a href="https://dblp.org/pid/227/6974.html">
-  <img align="left" alt="Sameer Alrehaili dblp" width="48px" src="https://raw.githubusercontent.com/ogencoglu/ogencoglu/master/arxiv2_small.jpg" hspace="30" />
+  <img align="left" alt="Sameer Alrehaili dblp" width="48px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.marefa.org%2FDBLP%2Fsimplified&psig=AOvVaw1lXt-FwWzADFSbw_dD9bAG&ust=1630754694098000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODdm-nY4vICFQAAAAAdAAAAABAD" />
 </a>
 
 <a href="https://twitter.com/salrehaili">
