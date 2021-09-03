@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://twitter.com/salrehaili" target="blank"><img src="https://img.shields.io/twitter/follow/salrehaili?logo=twitter&style=for-the-badge" alt="salrehaili" /></a> </p>
+
 
 ### Hi there 👋
 
@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 -->
 
 I am an Assistant Professor in the [College of Science and Computer Engineering, Yanbu](https://www.taibahu.edu.sa/Pages/EN/Sector/SectorPage.aspx?ID=33) at the [Taibah University](https://www.taibahu.edu.sa/).
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/sameer-alrehaili-60b9a94a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/salrehaili" target="blank"><img src="https://img.shields.io/twitter/follow/salrehaili?logo=twitter&style=for-the-badge" alt="salrehaili" /></a>
+</p>
+
 
 **My Reseach Interest**:
 - Ontology Learning
