@@ -49,4 +49,8 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
   <img align="left" alt="Sameer Alrehaili Linkdin" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
+<a href="https://gitlab.com/salrehaili">
+  <img align="middle" alt="Sameer Alrehaili GitLab" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" hspace="30" />
+</a>
+
 <br/><br/>
