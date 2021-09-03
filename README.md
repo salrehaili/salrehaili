@@ -38,7 +38,7 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 
 ### Connect with me :smiley:
 <a href="https://scholar.google.com/citations?user=zPkT_IAAAAJ&hl=en">
-  <img align="middle" alt="Sameer M. Alrehaili Google Scholar" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_scholar.svg" />
+  <img align="left" alt="Sameer M. Alrehaili Google Scholar" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_scholar.svg" />
 </a>
 
 <a href="https://twitter.com/salrehaili">
