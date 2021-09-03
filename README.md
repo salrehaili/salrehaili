@@ -38,7 +38,11 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 
 ### Connect with me :smiley:
 <a href="https://scholar.google.com/citations?user=zPkT_IAAAAJ&hl=en">
-  <img align="left" alt="Sameer M. Alrehaili Google Scholar" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/google_scholar.svg" />
+  <img align="left" alt="Sameer M. Alrehaili Google Scholar" width="48px" src="https://wimnet.ee.columbia.edu/wp-content/uploads/2018/10/dblpIcon.png" />
+</a>
+
+<a href="https://dblp.org/pid/227/6974.html">
+  <img align="left" alt="Sameer Alrehaili dblp" width="48px" src="https://raw.githubusercontent.com/ogencoglu/ogencoglu/master/arxiv2_small.jpg" hspace="30" />
 </a>
 
 <a href="https://twitter.com/salrehaili">
@@ -54,7 +58,7 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 </a>
 
 <a href="mailto:salrehaili@gmail.com">
-  <img align="middle" alt="Sameer Alrehaili email" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
+  <img align="left" alt="Sameer Alrehaili email" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/email.svg" />
 </a>
 
 <br/><br/>
