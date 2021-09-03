@@ -37,4 +37,12 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 - Semantic Web
 
 ### Connect with me :smiley:
+<a href="https://twitter.com/salrehaili">
+  <img align="left" alt="Sameer Alrehaili Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
 
+<a href="https://www.linkedin.com/in/sameer-alrehaili-60b9a94a/">
+  <img align="left" alt="Sameer Alrehaili Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<br/><br/>
