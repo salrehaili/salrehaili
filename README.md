@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://twitter.com/salrehaili" target="blank"><img src="https://img.shields.io/twitter/follow/salrehaili?logo=twitter&style=for-the-badge" alt="salrehaili" /></a> </p>
+
 ### Hi there 👋
 
 <!--
