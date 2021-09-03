@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 
 I am an Assistant Professor in the [College of Science and Computer Engineering, Yanbu](https://www.taibahu.edu.sa/Pages/EN/Sector/SectorPage.aspx?ID=33) at the [Taibah University](https://www.taibahu.edu.sa/).
 
+**My Reseach Interest**:
+- Ontology Learning
+- Text Classification with Deep Learning
+- Semantic Web
+
+
