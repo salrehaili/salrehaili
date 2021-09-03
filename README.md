@@ -68,8 +68,7 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salrehaili&layout=compact" />
 </div>-->
-![](https://hit.yhype.me/github/profile?user_id=salrehaili)
-![](https://komarev.com/ghpvc/?username=salrehaili&color=dc143c)
+![](https://komarev.com/ghpvc/?username=salrehaili&color=blue)
 
 
 <br/><br/>
