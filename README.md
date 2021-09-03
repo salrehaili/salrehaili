@@ -36,4 +36,5 @@ I am an Assistant Professor in the [College of Science and Computer Engineering,
 - Text Classification with Deep Learning
 - Semantic Web
 
+### Connect with me :smiley:
 
